@@ -614,6 +614,7 @@ PART THREE
     background-image: url('../images/happynewyr.jpg');
     background-position: center center;
     background-size: contain;
+    width: 100%;
     background-repeat: no-repeat;
     overflow: hidden;
 }
