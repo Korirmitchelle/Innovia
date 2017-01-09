@@ -613,7 +613,8 @@ PART THREE
     background-color: #333;
     background-image: url('../images/happynewyr.jpg');
     background-position: center center;
-    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
     overflow: hidden;
 }
 .overlay {
