@@ -1,6 +1,15 @@
 body {
-    font-family: "Lato", sans-serif;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 17px;
+    font-weight: 600;
     transition: background-color .5s;
+}
+.footnote {
+    background-color: #111;
+    color: #FFFF33;
+    font-family: 'Quicksand', sans-serif;
+    background-size: cover;
+    text-align: center;
 }
 .row {
     max-width: 100%;
@@ -352,6 +361,14 @@ PART ONE
     -webkit-transform: translate3d(-50%, -50%, 0);
     transform: translate3d(-50%, -50%, 0);
     overflow: hidden;
+}
+.contactus {
+    text-align: center;
+}
+.contactus h {
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
 }
 .caption-text h1 {
     font-size: 100px !important;
