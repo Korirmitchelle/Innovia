@@ -372,6 +372,7 @@ PART ONE
 }
 .caption-text h1 {
     font-size: 100px !important;
+    width: 100%;
     color: orange;
     overflow: hidden;
 }
@@ -569,7 +570,7 @@ PART TWO
 }
 .amazing span {
     color: orange;
-    font-size: 141%;
+    font-size: 125%;
     font-weight: normal;
 }
 .animals {
