@@ -611,7 +611,7 @@ PART THREE
 .footer-container {
     position: relative;
     background-color: #333;
-    /*background-image: url('../images/dream-333815_1280.jpg');*/
+    background-image: url('../images/happynewyr.jpg');
     background-position: center center;
     background-size: cover;
     overflow: hidden;
@@ -621,7 +621,7 @@ PART THREE
     width: 100%;
     height: 100%;
     content: '';
-    /*    background: rgba(0,0,0,0.3);*/
+    background: rgba(0, 0, 0, 0.3);
     background: transparent url(../images/pattern8.png) repeat top left;
     z-index: 2000;
 }
